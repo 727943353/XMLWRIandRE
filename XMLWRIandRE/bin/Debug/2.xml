@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Same as generate by serializing,FilmOrder-->
+<FilmOrder
+  FilmId="101"
+  Quantity="10">
+  <Title>Grease</Title>
+  <Test>
+    <clock>ok</clock>
+    <A>
+      <B>b</B>
+    </A>
+  </Test>
+</FilmOrder>

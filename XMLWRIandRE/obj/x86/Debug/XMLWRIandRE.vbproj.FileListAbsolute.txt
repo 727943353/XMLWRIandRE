@@ -1,0 +1,18 @@
+C:\Users\shuoliu\AppData\Local\Temporary Projects\XMLWRIandRE\bin\Debug\XMLWRIandRE.exe
+C:\Users\shuoliu\AppData\Local\Temporary Projects\XMLWRIandRE\bin\Debug\XMLWRIandRE.pdb
+C:\Users\shuoliu\AppData\Local\Temporary Projects\XMLWRIandRE\bin\Debug\XMLWRIandRE.xml
+C:\Users\shuoliu\AppData\Local\Temporary Projects\XMLWRIandRE\obj\x86\Debug\XMLWRIandRE.Form1.resources
+C:\Users\shuoliu\AppData\Local\Temporary Projects\XMLWRIandRE\obj\x86\Debug\XMLWRIandRE.Resources.resources
+C:\Users\shuoliu\AppData\Local\Temporary Projects\XMLWRIandRE\obj\x86\Debug\XMLWRIandRE.vbproj.GenerateResource.Cache
+C:\Users\shuoliu\AppData\Local\Temporary Projects\XMLWRIandRE\obj\x86\Debug\XMLWRIandRE.exe
+C:\Users\shuoliu\AppData\Local\Temporary Projects\XMLWRIandRE\obj\x86\Debug\XMLWRIandRE.xml
+C:\Users\shuoliu\AppData\Local\Temporary Projects\XMLWRIandRE\obj\x86\Debug\XMLWRIandRE.pdb
+C:\Users\shuoliu\Desktop\VB.NET练习\XMLWRIandRE\XMLWRIandRE\obj\x86\Debug\XMLWRIandRE.exe
+C:\Users\shuoliu\Desktop\VB.NET练习\XMLWRIandRE\XMLWRIandRE\obj\x86\Debug\XMLWRIandRE.xml
+C:\Users\shuoliu\Desktop\VB.NET练习\XMLWRIandRE\XMLWRIandRE\obj\x86\Debug\XMLWRIandRE.pdb
+C:\Users\shuoliu\Desktop\VB.NET练习\XMLWRIandRE\XMLWRIandRE\bin\Debug\XMLWRIandRE.exe
+C:\Users\shuoliu\Desktop\VB.NET练习\XMLWRIandRE\XMLWRIandRE\bin\Debug\XMLWRIandRE.pdb
+C:\Users\shuoliu\Desktop\VB.NET练习\XMLWRIandRE\XMLWRIandRE\bin\Debug\XMLWRIandRE.xml
+C:\Users\shuoliu\Desktop\VB.NET练习\XMLWRIandRE\XMLWRIandRE\obj\x86\Debug\XMLWRIandRE.Form1.resources
+C:\Users\shuoliu\Desktop\VB.NET练习\XMLWRIandRE\XMLWRIandRE\obj\x86\Debug\XMLWRIandRE.Resources.resources
+C:\Users\shuoliu\Desktop\VB.NET练习\XMLWRIandRE\XMLWRIandRE\obj\x86\Debug\XMLWRIandRE.vbproj.GenerateResource.Cache
